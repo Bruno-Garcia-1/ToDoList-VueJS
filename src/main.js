@@ -4,6 +4,7 @@ import store from './store';
 import App from './App.vue';
 import './plugins/vee-validate';
 
+
 import './assets/css/tailwind.css';
 
 Vue.config.productionTip = false;
